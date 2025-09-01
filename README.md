@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/AniketGudgal)
 [![Gmail](https://img.shields.io/badge/Email-aniketgudgal5867@gmail.com-red?logo=gmail&style=flat-square)](mailto:aniketgudgal5867@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/AniketGudgal?label=Follow&style=social)](https://github.com/AniketGudgal)
 
 ---
 
