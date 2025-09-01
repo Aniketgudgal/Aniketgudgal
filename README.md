@@ -4,7 +4,7 @@
 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/917057112026)  
 🤝 **Let's Connect:** [LinkedIn](https://linkedin.com/in/AniketGudgal) | [Email](mailto:aniketgudgal5867@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/AniketGudgal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aniket-gudgal-570086267/)
 [![Gmail](https://img.shields.io/badge/Email-aniketgudgal5867@gmail.com-red?logo=gmail&style=flat-square)](mailto:aniketgudgal5867@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=flat-square)](https://wa.me/917057112026)
 [![Call](https://img.shields.io/badge/Call-+91--7057112026-blue?logo=phone&style=flat-square)](tel:+917057112026)
