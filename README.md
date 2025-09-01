@@ -1,86 +1,106 @@
-# 👋 Hi, I'm Aniket Gudgal  
+# 👋 Hi, I'm Aniket Gudgal
 
-💻 Aspiring Software Engineer | 🚀 Passionate about Problem Solving | 🌱 Lifelong Learner  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/AniketGudgal)
+[![Gmail](https://img.shields.io/badge/Email-aniketgudgal5867@gmail.com-red?logo=gmail&style=flat-square)](mailto:aniketgudgal5867@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/AniketGudgal?label=Follow&style=social)](https://github.com/AniketGudgal)
 
-------------------------------------------------------------------------------------------------------------------
+---
 
-**Location:** Ahmednagar, Maharashtra  
-**Email:** [aniketgudgal5867@gmail.com](mailto:aniketgudgal5867@gmail.com)  
-**Phone:** +91-7057112026  
-**LinkedIn:** [linkedin.com/in/AniketGudgal](https://linkedin.com/in/AniketGudgal)
+💻 **Aspiring Software Engineer** | 🚀 **Problem Solver** | 🌱 **Lifelong Learner**
 
-------------------------------------------------------------------------------------------------------------------
+---
 
-## Summary
-Strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as an entry-level software engineer with a reputed firm driven by technology.
+## 🚀 About Me
 
-------------------------------------------------------------------------------------------------------------------
+- 🔭 I’m passionate about building impactful software solutions and solving real-world problems.
+- 💡 I love exploring new technologies and continuously improving my skills.
+- 🤝 Open to collaborating on innovative projects and hackathons.
+- 📫 Feel free to connect or reach out!
 
-## Education
+---
+
+## 🏫 Education
 
 **Dr. Vithalrao Vikhe Patil College Of Engineering, Ahmednagar**  
-*BE in Electronics And Telecommunication*  
-December 2021 – June 2025  
+_Bachelor of Engineering in Electronics And Telecommunication_  
+<sub>Dec 2021 – Jun 2025</sub>
 
-**Dnyansarita Vidyalaya, Wadgaon Gupta, Ahmednagar**  
-*HSC* – June 2020 – June 2021  
-*SSC* – June 2018 – June 2019  
+**Dnyansarita Vidyalaya, Ahmednagar**  
+_HSC (2020–2021) | SSC (2018–2019)_
 
-------------------------------------------------------------------------------------------------------------------
+---
 
-## Work Experience
+## 💼 Experience
 
-**Web Development and Designing Intern** – Oasis Infobyte  
-*March 2024 – April 2024*  
-- Developed and tested a functional calculator application with a responsive UI.  
-- Designed and implemented a modern and user-friendly landing page for a fitness website.  
-- Created a personal portfolio showcasing professional skills and projects.  
-- Built a temperature converter tool for real-time unit conversion.
+**Web Development & Designing Intern** – Oasis Infobyte  
+_Mar 2024 – Apr 2024_
+- Developed a responsive calculator app and a modern fitness landing page.
+- Built a personal portfolio and a real-time temperature converter tool.
 
-------------------------------------------------------------------------------------------------------------------
+---
 
-## Projects
+## 🛠️ Projects
 
-**Alumni Management System** *(June 2024 – June 2025)*  
-- Conducted system integration testing to ensure smooth functionality across various blocks.  
-- Collaborated with team to improve design and reliability.  
-- Tools: Django, Python, Jupyter Notebook, VS Code, PyCharm, Postman.  
+<details>
+  <summary><b>Alumni Management System</b> <sub>(Jun 2024 – Jun 2025)</sub></summary>
+  <ul>
+    <li>System integration testing for seamless functionality.</li>
+    <li>Collaborated on design and reliability improvements.</li>
+    <li><b>Tech:</b> Django, Python, Jupyter Notebook, VS Code, PyCharm, Postman</li>
+  </ul>
+</details>
 
-**Line Following Robot** *(January 2022 – May 2024)*  
-- Developed an autonomous robot to detect and follow predefined paths using IR sensors.  
-- Programmed microcontroller for real-time sensor feedback processing.  
-- Tools: IR Sensors, Motor Driver, DC Motors, Microcontroller, Debugging Tools.  
+<details>
+  <summary><b>Line Following Robot</b> <sub>(Jan 2022 – May 2024)</sub></summary>
+  <ul>
+    <li>Developed an autonomous robot using IR sensors and microcontroller programming.</li>
+    <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Microcontroller</li>
+  </ul>
+</details>
 
-**Simple Clap Switch** *(October 2022 – March 2023)*  
-- Designed and assembled a sound-sensitive circuit using condenser microphone, transistors, and relay modules.  
-- Calibrated amplifier circuits for noise filtration and reliable clap detection.  
-- Tools: Microphone Module, Amplifier Circuit, Breadboard/PCB, Relay Module.  
+<details>
+  <summary><b>Simple Clap Switch</b> <sub>(Oct 2022 – Mar 2023)</sub></summary>
+  <ul>
+    <li>Designed a sound-sensitive circuit for reliable clap detection.</li>
+    <li><b>Tech:</b> Microphone Module, Amplifier Circuit, Relay Module</li>
+  </ul>
+</details>
 
-------------------------------------------------------------------------------------------------------------------
+---
 
-## Extracurricular Activities
-- Secured **All India Rank 1** in SIH (Smart India Hackathon) 2023 for innovative problem-solving.  
-- Achieved 3rd rank in a college-level poster competition for innovative solutions.  
-- Completed 6-day **IDE training** by Government of India at Nagpur & Visakhapatnam.  
-- Participated in **Startup Olympiad 2025** under Savitribai Phule Pune University,
-  mentored teams and pitched startup ideas to jury & industry leaders.  
+## 🏆 Achievements & Activities
 
-------------------------------------------------------------------------------------------------------------------
+- 🥇 **All India Rank 1** in SIH (Smart India Hackathon) 2023
+- 🥉 3rd place in college-level poster competition
+- 🛠️ Completed 6-day **IDE training** by Govt. of India (Nagpur & Visakhapatnam)
+- 🚀 Participated in **Startup Olympiad 2025** (SPPU): mentored teams, pitched ideas
 
-## Skills & Technologies
+---
 
-**Languages:** C++, C, Java, SQL, HTML, CSS, JavaScript  
-**Software Tools:** Eclipse, Visual Studio Code, Postman, PyCharm, Jupyter Notebook  
-**Operating Systems:** Windows, Linux, MacOS  
-**Version Control:** Git, GitHub  
-**Cloud Technology:** AWS  
+## 🧰 Skills & Technologies
 
-------------------------------------------------------------------------------------------------------------------
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Personal Details
-- **Date of Birth:** 6th December 2003  
-- **Languages Known:** English, Hindi, Marathi  
-- **Address:** Wadgaon Gupta, Ahmednagar, Maharashtra, 414111  
+---
 
-------------------------------------------------------------------------------------------------------------------
+## 📫 Contact
+
+- 📍 Ahmednagar, Maharashtra, India
+- 📧 [aniketgudgal5867@gmail.com](mailto:aniketgudgal5867@gmail.com)
+- 📱 +91-7057112026
+- [LinkedIn](https://linkedin.com/in/AniketGudgal)
+
+---
+
+<sub>**Languages:** English, Hindi, Marathi | **DOB:** 6th December 2003</sub>
 
