@@ -103,3 +103,16 @@ _Mar 2024 – Apr 2024_
 
 <sub>**Languages:** English, Hindi, Marathi | **DOB:** 6th December 2003</sub>
 
+---
+
+## 📊 GitHub Stats
+
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketGudgal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketGudgal&layout=compact&theme=radical)
+
+---
+
+## 🙏 Thank You!
+
+Thank you for visiting my profile!  
+Feel free to connect, collaborate, or reach out for any opportunities or
