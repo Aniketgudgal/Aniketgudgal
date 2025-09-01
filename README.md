@@ -1,4 +1,8 @@
-# Aniket Gudgal 👋
+# 👋 Hi, I'm Aniket Gudgal  
+
+💻 Aspiring Software Engineer | 🚀 Passionate about Problem Solving | 🌱 Lifelong Learner  
+
+------------------------------------------------------------------------------------------------------------------
 
 **Location:** Ahmednagar, Maharashtra  
 **Email:** [aniketgudgal5867@gmail.com](mailto:aniketgudgal5867@gmail.com)  
