@@ -21,7 +21,7 @@
 
 ## 🏫 Education
 
-**Dr. Vithalrao Vikhe Patil College Of Engineering, Ahmednagar**  
+**Dr. Vithalrao Vikhe Patil College Of Engineering, Ahilyanagar**  
 _Bachelor of Engineering in Electronics And Telecommunication_  
 <sub>Dec 2021 – Jun 2025</sub>
 
