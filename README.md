@@ -117,7 +117,7 @@ _Mar 2024 – Apr 2024_
 
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=compact&theme=radical)
-![Aniket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical)
 [![Aniket's Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
 [![Aniket's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal)
 
