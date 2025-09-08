@@ -115,11 +115,11 @@ _Mar 2024 – Apr 2024_
 
 ## 📊 GitHub Stats
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketGudgal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketGudgal&layout=compact&theme=radical)
-![Aniket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AniketGudgal&theme=radical)
-[![Aniket's Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AniketGudgal&theme=radical)](https://github.com/AniketGudgal?tab=repositories)
-[![Aniket's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketGudgal&theme=radical)](https://github.com/AniketGudgal)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=compact&theme=radical)
+![Aniket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical)
+[![Aniket's Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
+[![Aniket's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal)
 
 ---
 
