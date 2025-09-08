@@ -57,6 +57,8 @@ _Mar 2024 – Apr 2024_
   <summary><b>Alumni Management System</b> <sub>(Mar 2024 – Mar 2025)</sub></summary>
   <ul>
     <li>Developed a Django-based web application to manage alumni records for the college and department.</li>
+    <li>System integration testing for seamless functionality.</li> 
+    <li>Collaborated on design and reliability improvements.</li>
     <li>Facilitated communication, streamlined data management, and strengthened alumni engagement.</li>
     <li><b>Tech:</b> Django, Django REST Framework, Python, HTML, CSS, JavaScript, Bootstrap, MySQL</li>
     <li><b>GitHub:</b> <a href="https://github.com/Aniketgudgal/Alumni-Management-Portal">Alumni Management Portal</a></li>
