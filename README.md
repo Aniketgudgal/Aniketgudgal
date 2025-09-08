@@ -2,7 +2,7 @@
 
 📱 **Mobile:** +91-7057112026  
 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/917057112026)  
-🤝 **Let's Connect:** [LinkedIn](https://linkedin.com/in/AniketGudgal) | [Email](mailto:aniketgudgal5867@gmail.com)
+🤝 **Let's Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gudgal-570086267/) | [Email](mailto:aniketgudgal5867@gmail.com)
 
 ---
 
@@ -18,6 +18,18 @@
 - 📫 Feel free to connect or reach out!
 
 ---
+
+## 🚀 Highlights
+- 💡 **Alumni Management Portal** – Django-based web app (Final Year Project) to manage alumni data and strengthen engagement.  
+- 🌱 **JalTantra – Smart Irrigation System** – IoT project, **Grand Finalist at SPPU Startup Olympiad 2025**.  
+- 🏆 **Smart India Hackathon 2023 Grand Finalist**, solving real-world challenges with innovation.  
+- 🤖 **Line Following Robot** – Designed with PID control using Atmega microcontrollers.  
+- 🔐 Completed **Cybersecurity & Ethical Hacking Awareness Program** (NCIIPC, AICTE, MIC).  
+- 🍏 **Apple Certified in Swift Programming (6 months)** – iOS/macOS development fundamentals.  
+- 🌍 **NSS Volunteer** – contributing to social impact activities.  
+
+---
+
 
 ## 🏫 Education
 
@@ -77,19 +89,35 @@ _Mar 2024 – Apr 2024_
 
 ---
 
-## 🧰 Skills & Technologies
+## 🛠️ Skills & Technologies
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### Languages & Frameworks  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=gray)  
+![Java (Core)](https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Java (Advanced)](https://img.shields.io/badge/Advanced%20Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+
+### Web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Virtualenv](https://img.shields.io/badge/Virtualenv-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Atmega Microcontrollers](https://img.shields.io/badge/Atmega-EE1C25?style=for-the-badge&logo=microchip&logoColor=white)  
 
 ---
 
@@ -98,7 +126,7 @@ _Mar 2024 – Apr 2024_
 - 📍 Ahmednagar, Maharashtra, India
 - 📧 [aniketgudgal5867@gmail.com](mailto:aniketgudgal5867@gmail.com)
 - 📱 +91-7057112026
-- [LinkedIn](https://linkedin.com/in/AniketGudgal)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gudgal-570086267/)
 
 ---
 
@@ -116,5 +144,5 @@ _Mar 2024 – Apr 2024_
 
 ---
 
-Thank you for visiting my profile!  
-Feel free to connect, collaborate, or reach out for any opportunities or inquiries.
+Thank you for visiting my profile!
+💡 *Always open to collaboration, mentorship, and learning opportunities!*  
