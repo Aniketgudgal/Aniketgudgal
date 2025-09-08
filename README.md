@@ -93,10 +93,30 @@ _Mar 2024 – Apr 2024_
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages & Frameworks**: Python (Django, DRF), JavaScript, C, C++, Swift  
-- **Web**: HTML, CSS, Bootstrap  
-- **Database**: MySQL  
-- **Tools**: Git, GitHub, Linux, Virtualenv, Arduino, Atmega Microcontrollers    
+
+### 🖥️ Languages & Frameworks
+- **Python** (3.12) – Django, Django REST Framework (DRF)  
+- **Java** – Core Java (1.8/11), Advanced Java (Servlets, JSP, JDBC)  
+- **JavaScript** (ES6+)  
+- **C** (C11)  
+- **C++** (C++17)  
+- **Swift** (6.0)  
+
+### 🌐 Web Technologies
+- **HTML5**  
+- **CSS3**  
+- **Bootstrap 5**  
+
+### 🗄️ Database
+- **MySQL** (8.0)  
+
+### 🛠️ Tools & Platforms
+- **Git**  
+- **GitHub**  
+- **Linux**  
+- **Virtualenv**  
+- **Arduino**  
+- **Atmega Microcontrollers**
 
 ---
 
