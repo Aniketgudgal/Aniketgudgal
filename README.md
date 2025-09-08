@@ -2,7 +2,7 @@
 
 📱 **Mobile:** +91-7057112026  
 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/917057112026)  
-🤝 **Let's Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gudgal-570086267/) | [Email](mailto:aniketgudgal5867@gmail.com)
+🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/aniket-gudgal-570086267/) | [Email](mailto:aniketgudgal5867@gmail.com)
 
 ---
 
@@ -54,27 +54,30 @@ _Mar 2024 – Apr 2024_
 ## 🛠️ Projects
 
 <details>
-  <summary><b>Alumni Management System</b> <sub>(Jun 2024 – Jun 2025)</sub></summary>
+  <summary><b>Alumni Management System</b> <sub>(Mar 2024 – Mar 2025)</sub></summary>
   <ul>
-    <li>System integration testing for seamless functionality.</li>
-    <li>Collaborated on design and reliability improvements.</li>
-    <li><b>Tech:</b> Django, Python, Jupyter Notebook, VS Code, PyCharm, Postman</li>
+    <li>Developed a Django-based web application to manage alumni records for the college and department.</li>
+    <li>Facilitated communication, streamlined data management, and strengthened alumni engagement.</li>
+    <li><b>Tech:</b> Django, Django REST Framework, Python, HTML, CSS, JavaScript, Bootstrap, MySQL</li>
+    <li><b>GitHub:</b> <a href="https://github.com/Aniketgudgal/Alumni-Management-Portal">Alumni Management Portal</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Line Following Robot</b> <sub>(Jan 2022 – May 2024)</sub></summary>
   <ul>
-    <li>Developed an autonomous robot using IR sensors and microcontroller programming.</li>
-    <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Microcontroller</li>
+    <li>Developed an autonomous line-following robot using IR sensors and microcontroller programming.</li>
+    <li>Implemented PID control for smooth and precise movement along the track.</li>
+    <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Simple Clap Switch</b> <sub>(Oct 2022 – Mar 2023)</sub></summary>
   <ul>
-    <li>Designed a sound-sensitive circuit for reliable clap detection.</li>
-    <li><b>Tech:</b> Microphone Module, Amplifier Circuit, Relay Module</li>
+    <li>Designed a sound-sensitive circuit to turn devices on/off via clap detection.</li>
+    <li>Implemented a reliable amplifier and relay system for practical home automation use.</li>
+    <li><b>Tech:</b> Microphone Module, Amplifier Circuit, Relay Module, Arduino</li>
   </ul>
 </details>
 
@@ -90,47 +93,23 @@ _Mar 2024 – Apr 2024_
 ---
 
 ## 🛠️ Skills & Technologies
-
-### Languages & Frameworks  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=gray)  
-![Java (Core)](https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Java (Advanced)](https://img.shields.io/badge/Advanced%20Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-
-### Web  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Virtualenv](https://img.shields.io/badge/Virtualenv-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Atmega Microcontrollers](https://img.shields.io/badge/Atmega-EE1C25?style=for-the-badge&logo=microchip&logoColor=white)  
+- **Languages & Frameworks**: Python (Django, DRF), JavaScript, C, C++, Swift  
+- **Web**: HTML, CSS, Bootstrap  
+- **Database**: MySQL  
+- **Tools**: Git, GitHub, Linux, Virtualenv, Arduino, Atmega Microcontrollers    
 
 ---
 
 ## 📫 Contact
 
-- 📍 Ahmednagar, Maharashtra, India
+- 📍 Ahilyanagar, Maharashtra, India
 - 📧 [aniketgudgal5867@gmail.com](mailto:aniketgudgal5867@gmail.com)
 - 📱 +91-7057112026
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gudgal-570086267/)
+- [LinkedIn Profile](https://www.linkedin.com/in/aniket-gudgal-570086267/)
 
 ---
 
-<sub>**Languages:** English, Hindi, Marathi | **DOB:** 6th December 2003</sub>
+**Languages:** English, Hindi, Marathi | **DOB:** 6th December 2003
 
 ---
 
@@ -145,4 +124,5 @@ _Mar 2024 – Apr 2024_
 ---
 
 Thank you for visiting my profile!
+
 💡 *Always open to collaboration, mentorship, and learning opportunities!*  
