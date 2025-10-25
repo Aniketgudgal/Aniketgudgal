@@ -99,6 +99,11 @@ _Mar 2024 – Apr 2024_
 
 ## 🛠️ Skills & Technologies
 
+### Networking
+- 🌐 Currently learning Computer Networking using Cisco Packet Tracer (Version 9.0)
+- 📚 Actively practicing networking concepts through hands-on labs
+- 💻 Check out my networking labs practice: [Cisco-Packet-Tracer-Labs](https://github.com/Aniketgudgal/Networking-labs)
+
 ### 🖥️ Languages & Frameworks
 - **Python** (3.12) – Django, Django REST Framework (DRF)  
 - **Java** – Core Java (1.8/11), Advanced Java (Servlets, JSP, JDBC)  
