@@ -73,7 +73,7 @@ _Mar 2024 – Apr 2024_
     <li>Implemented PID control for smooth and precise movement along the track.</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
-    <li>👉 [Working Model Video](https://youtube.com/shorts/IuFvfm-TGXM?si=WxpG_F6oqPgVVBpL)</li>
+    <li>👉 [Working Model Video](https://youtube.com/shorts/Iu
   </ul>
 </details>
 
@@ -154,6 +154,10 @@ _Mar 2024 – Apr 2024_
 ![](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniketgudgal&color=blueviolet&style=flat-square)
+
+## 📈 Contribution Graph
+
+![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketgudgal&theme=radical)
 
 ---
 
