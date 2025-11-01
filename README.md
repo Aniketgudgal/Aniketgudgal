@@ -62,7 +62,7 @@ _Mar 2024 – Apr 2024_
     <li>Facilitated communication, streamlined data management, and strengthened alumni engagement.</li>
     <li><b>Tech:</b> Django, Django REST Framework, Python, HTML, CSS, JavaScript, Bootstrap, MySQL</li>
     <li><b>GitHub:</b> <a href="https://github.com/Aniketgudgal/Alumni-Management-Portal">Alumni Management Portal</a></li>
-    👉 [Working Model Video](https://drive.google.com/file/d/1jvDnjbkBklQUVJQ_gHKt3GnueifwYsmB/view?usp=sharing)
+    <li>👉 [Working Model Video](https://drive.google.com/file/d/1jvD
   </ul>
 </details>
 
@@ -73,7 +73,7 @@ _Mar 2024 – Apr 2024_
     <li>Implemented PID control for smooth and precise movement along the track.</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
-    👉 [Working Model Video](https://youtube.com/shorts/IuFvfm-TGXM?si=WxpG_F6oqPgVVBpL)
+    <li>👉 [Working Model Video](https://youtube.com/shorts/IuFvfm-TGXM?si=WxpG_F6oqPgVVBpL)</li>
   </ul>
 </details>
 
@@ -151,8 +151,12 @@ _Mar 2024 – Apr 2024_
 [![Aniket's Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
 [![Aniket's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal)
 
+![](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aniketgudgal&color=blueviolet&style=flat-square)
+
 ---
 
 Thank you for visiting my profile!
 
-💡 *Always open to collaboration, mentorship, and learning opportunities!*  
+💡 *Always open to collaboration, mentorship, and learning opportunities!*
