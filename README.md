@@ -106,7 +106,7 @@ _Mar 2024 – Apr 2024_
 
 ### 🖥️ Languages & Frameworks
 - **Python** (3.12) – Django, Django REST Framework (DRF)  
-- **Java** – Core Java (1.8/11), Advanced Java (Servlets, JSP, JDBC)  
+- **Java** – Core Java (21.0.1), Advanced Java (Servlets, JSP, JDBC)  
 - **JavaScript** (ES6+)  
 - **C** (C98)  
 - **C++** (C++ 14.2.0)  
