@@ -62,7 +62,7 @@ _Mar 2024 – Apr 2024_
     <li>Facilitated communication, streamlined data management, and strengthened alumni engagement.</li>
     <li><b>Tech:</b> Django, Django REST Framework, Python, HTML, CSS, JavaScript, Bootstrap, MySQL</li>
     <li><b>GitHub:</b> <a href="https://github.com/Aniketgudgal/Alumni-Management-Portal">Alumni Management Portal</a></li>
-    <li>👉 [Working Model Video](https://drive.google.com/file/d/1jvD
+    <li>👉 [Working Model Video] https://drive.google.com/file/d/1jvD
   </ul>
 </details>
 
@@ -73,7 +73,7 @@ _Mar 2024 – Apr 2024_
     <li>Implemented PID control for smooth and precise movement along the track.</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
-    <li>👉 [Working Model Video](https://youtube.com/shorts/IuFvfm-TGXM?feature=share)
+    <li>👉 [Working Model Video] https://youtube.com/shorts/IuFvfm-TGXM?feature=share
   </ul>
 </details>
 
@@ -106,7 +106,7 @@ _Mar 2024 – Apr 2024_
 
 ### 🖥️ Languages & Frameworks
 - **Python** (3.12) – Django, Django REST Framework (DRF)  
-- **Java** – Core Java (21.0.1), Advanced Java (Servlets, JSP, JDBC)  
+- **Java** – Core Java (1.8), Advanced Java (Servlets, JSP, JDBC)  
 - **JavaScript** (ES6+)  
 - **C** (C98)  
 - **C++** (C++ 14.2.0)  
