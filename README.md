@@ -155,7 +155,11 @@ _Mar 2024 – Apr 2024_
 </div>
 
 ### 🏆 Recent Contributions
+<div align="center">
+
 ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
 
 ### 📅 Annual Activity Heatmap
 <div align="center">
