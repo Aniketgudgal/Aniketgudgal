@@ -143,20 +143,50 @@ _Mar 2024 – Apr 2024_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Statistics
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=compact&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical)
-[![Aniket's Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
-[![Aniket's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal)
+### 💻 Overall Performance
+<div align="center">
+  
+| **Metric** | **Graph** |
+|-----------|----------|
+| **GitHub Stats** | ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical&hide_border=true) |
+| **Contribution Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical&hide_border=true) |
 
-![](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
+### 🔝 Most Used Languages
+<div align="center">
 
-## 📈 Contribution Graph
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=pie&theme=radical&hide_border=true)
 
-![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketgudgal&theme=radical)
+**Proficiency Overview:**
+- 🐍 **Python** – Web Development (Django, DRF), Data Analytics
+- ☕ **Java** – Backend Development, Core & Advanced Java
+- 🌐 **JavaScript** – Frontend Development, Web Interactivity
+- 🦀 **C/C++** – System Programming, Competitive Programming
+- 🍎 **Swift** – iOS/macOS Development
+
+</div>
+
+### 📈 Repository & Contribution Analytics
+<div align="center">
+
+[![Repository Languages Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
+
+[![Profile Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal)
+
+</div>
+
+### 🏆 Recent Contributions
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### 📅 Annual Activity Heatmap
+<div align="center">
+
+![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketgudgal&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
