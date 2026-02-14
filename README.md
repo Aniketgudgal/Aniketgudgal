@@ -149,20 +149,15 @@ _Mar 2024 – Apr 2024_
 
 ### 💻 GitHub Performance & Activity
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical&border_radius=10)
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical&border_radius=10)
 
 ### 🔝 Most Used Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=donut&theme=radical&border_radius=10)
 
-**Proficiency Overview:**
-- 🐍 **Python** – Web Development (Django, DRF), Data Analytics
-- ☕ **Java** – Backend Development, Core & Advanced Java
-- 🌐 **JavaScript** – Frontend Development, Web Interactivity
-- 🦀 **C/C++** – System Programming, Competitive Programming
-- 🍎 **Swift** – iOS/macOS Development
+**Languages:** 🐍 Python | ☕ Java | 🌐 JavaScript | 🦀 C/C++ | 🍎 Swift
 
 ### 📈 Repository Distribution & Profile Details
 
