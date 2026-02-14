@@ -73,7 +73,7 @@ _Mar 2024 – Apr 2024_
     <li>Implemented PID control for smooth and precise movement along the track.</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
-    <li>👉 [Working Model Video](https://youtube.com/shorts/Iu
+    <li>👉 [Working Model Video](https://youtube.com/shorts/IuFvfm-TGXM?feature=share)
   </ul>
 </details>
 
@@ -145,33 +145,22 @@ _Mar 2024 – Apr 2024_
 
 ## 📊 GitHub Analytics & Statistics
 
+###  Repository & Contribution Analytics
 <div align="center">
 
-### 💻 GitHub Performance & Activity
+[![Repository Languages Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketgudgal&show_icons=true&theme=radical&border_radius=10)
+[![Profile Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal)
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniketgudgal&theme=radical&border_radius=10)
-
-### 🔝 Most Used Programming Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgudgal&layout=donut&theme=radical&border_radius=10)
-
-**Languages:** 🐍 Python | ☕ Java | 🌐 JavaScript | 🦀 C/C++ | 🍎 Swift
-
-### 📈 Repository Distribution & Profile Details
-
-![Repository Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)
-
-![Profile Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketgudgal&theme=radical)
+</div>
 
 ### 🏆 Recent Contributions
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Aniketgudgal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 📅 Annual Activity Heatmap
+<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketgudgal&theme=radical)
+![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketgudgal&theme=radical&hide_border=true)
 
 </div>
 
