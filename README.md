@@ -109,7 +109,7 @@ _Mar 2024 – Apr 2024_
 - **Java** – Core Java (1.8), Advanced Java (Servlets, JSP, JDBC)  
 - **JavaScript** (ES6+)  
 - **C** (C98)  
-- **C++** (C++ 14.2.0)  
+- **C++** (14.2.0)  
 - **Swift** (6.0)  
 
 ### 🌐 Web Technologies
