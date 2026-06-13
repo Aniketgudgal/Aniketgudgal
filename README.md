@@ -3,6 +3,7 @@
 📱 **Mobile:** +91-7057112026  
 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/917057112026)  
 🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/aniket-gudgal-570086267/) | [Email](mailto:aniketgudgal5867@gmail.com)
+📄 **Resume:** [View Resume](Resume.md)
 
 ---
 
@@ -12,24 +13,24 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m passionate about building impactful software solutions and solving real-world problems.
-- 💡 I love exploring new technologies and continuously improving my skills.
-- 🤝 Open to collaborating on innovative projects and hackathons.
+- 🔭 I’m passionate about building impactful software solutions, web applications, and IoT-enabled systems.
+- 💡 I love exploring new technologies, creating hands-on prototypes, and continuously improving my skills.
+- 🤝 Open to collaborating on innovative projects, hackathons, and technical problem solving.
 - 📫 Feel free to connect or reach out!
 
 ---
 
 ## 🚀 Highlights
-- 💡 **Alumni Management Portal** – Django-based web app (Final Year Project) to manage alumni data and strengthen engagement.  
-- 🌱 **JalTantra – Smart Irrigation System** – IoT project, **Grand Finalist at SPPU Startup Olympiad 2025**.  
-- 🏆 **Smart India Hackathon 2023 Grand Finalist**, solving real-world challenges with innovation.  
-- 🤖 **Line Following Robot** – Designed with PID control using Atmega microcontrollers.  
-- 🔐 Completed **Cybersecurity & Ethical Hacking Awareness Program** (NCIIPC, AICTE, MIC).  
-- 🍏 **Apple Certified in Swift Programming (6 months)** – iOS/macOS development fundamentals.  
-- 🌍 **NSS Volunteer** – contributing to social impact activities.  
+
+- 💡 **Alumni Management Portal** – Django-based web app (Final Year Project) to manage alumni data and strengthen engagement.
+- 🌱 **JalTantra – Smart Irrigation System** – IoT project, **Grand Finalist at SPPU Startup Olympiad 2025**.
+- 🏆 **Smart India Hackathon 2023 Grand Finalist**, solving real-world challenges with innovation.
+- 🤖 **Line Following Robot** – Designed with PID control using Atmega microcontrollers.
+- 🔐 Completed **Cybersecurity & Ethical Hacking Awareness Program** (NCIIPC, AICTE, MIC).
+- 🍏 **Apple Certified in Swift Programming (6 months)** – iOS/macOS development fundamentals.
+- 🌍 **NSS Volunteer** – contributing to social impact activities.
 
 ---
-
 
 ## 🏫 Education
 
@@ -46,8 +47,10 @@ _HSC (2020–2021) | SSC (2018–2019)_
 
 **Web Development & Designing Intern** – Oasis Infobyte  
 _Mar 2024 – Apr 2024_
+
 - Developed a responsive calculator app and a modern fitness landing page.
 - Built a personal portfolio and a real-time temperature converter tool.
+- Improved UI/UX design, responsiveness, and front-end performance across multiple web pages.
 
 ---
 
@@ -62,7 +65,17 @@ _Mar 2024 – Apr 2024_
     <li>Facilitated communication, streamlined data management, and strengthened alumni engagement.</li>
     <li><b>Tech:</b> Django, Django REST Framework, Python, HTML, CSS, JavaScript, Bootstrap, MySQL</li>
     <li><b>GitHub:</b> <a href="https://github.com/Aniketgudgal/Alumni-Management-Portal">Alumni Management Portal</a></li>
-    <li>👉 [Working Model Video] https://drive.google.com/file/d/1jvD
+    <li>👉 [Working Model Video] https://drive.google.com/file/d/1jvD</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>JalTantra – Smart Irrigation System</b> <sub>(2024 – 2025)</sub></summary>
+  <ul>
+    <li>Built an IoT-enabled irrigation system to monitor soil moisture and automate watering.</li>
+    <li>Designed sensor integration, automated control logic, and dashboard feedback for smarter farm management.</li>
+    <li>Achieved Grand Finalist status at SPPU Startup Olympiad 2025.</li>
+    <li><b>Tech:</b> IoT sensors, microcontrollers, automation logic, embedded system prototyping</li>
   </ul>
 </details>
 
@@ -71,7 +84,6 @@ _Mar 2024 – Apr 2024_
   <ul>
     <li>Developed an autonomous line-following robot using IR sensors and microcontroller programming.</li>
     <li>Implemented PID control for smooth and precise movement along the track.</li>
-    <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
     <li><b>Tech:</b> IR Sensors, Motor Driver, DC Motors, Arduino, Atmega Microcontroller</li>
     <li>👉 [Working Model Video] https://youtube.com/shorts/IuFvfm-TGXM?feature=share
   </ul>
@@ -100,33 +112,47 @@ _Mar 2024 – Apr 2024_
 ## 🛠️ Skills & Technologies
 
 ### Networking
+
 - 🌐 Currently learning Computer Networking using Cisco Packet Tracer (Version 9.0)
 - 📚 Actively practicing networking concepts through hands-on labs
 - 💻 Check out my networking labs practice: [Cisco-Packet-Tracer-Labs](https://github.com/Aniketgudgal/Networking-labs)
 
 ### 🖥️ Languages & Frameworks
-- **Python** (3.12) – Django, Django REST Framework (DRF)  
-- **Java** – Core Java (1.8), Advanced Java (Servlets, JSP, JDBC)  
-- **JavaScript** (ES6+)  
-- **C** (C98)  
-- **C++** (14.2.0)  
-- **Swift** (6.0)  
+
+- **Python** (3.12) – Django, Django REST Framework (DRF)
+- **Java** – Core Java (1.8), Advanced Java (Servlets, JSP, JDBC)
+- **JavaScript** (ES6+)
+- **C** (C98)
+- **C++** (14.2.0)
+- **Swift** (6.0)
 
 ### 🌐 Web Technologies
-- **HTML5**  
-- **CSS3**  
-- **Bootstrap 5**  
 
-### 🗄️ Database
-- **MySQL** (8.0)  
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+
+### 🗄️ Databases
+
+- **MySQL** (8.0)
 
 ### 🛠️ Tools & Platforms
-- **Git**  
-- **GitHub**  
-- **Linux**  
-- **Virtualenv**  
-- **Arduino**  
+
+- **Git**
+- **GitHub**
+- **Linux**
+- **Virtualenv**
+- **Arduino**
 - **Atmega Microcontrollers**
+
+### 🔧 Additional Strengths
+
+- Web development and responsive design
+- Backend API development with Django and DRF
+- IoT and embedded system prototyping
+- System integration testing and reliability improvements
+- Hands-on knowledge of modern web and embedded technologies
+- Collaborative teamwork, communication, and technical problem solving
 
 ---
 
@@ -145,7 +171,8 @@ _Mar 2024 – Apr 2024_
 
 ## 📊 GitHub Analytics & Statistics
 
-###  Repository & Contribution Analytics
+### Repository & Contribution Analytics
+
 <div align="center">
 
 [![Repository Languages Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketgudgal&theme=radical)](https://github.com/Aniketgudgal?tab=repositories)
@@ -155,6 +182,7 @@ _Mar 2024 – Apr 2024_
 </div>
 
 ### 📅 Annual Activity Heatmap
+
 <div align="center">
 
 ![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniketgudgal&theme=radical&hide_border=true)
@@ -165,4 +193,4 @@ _Mar 2024 – Apr 2024_
 
 Thank you for visiting my profile!
 
-💡 *Always open to collaboration, mentorship, and learning opportunities!*
+💡 _Always open to collaboration, mentorship, and learning opportunities!_
