@@ -10,6 +10,12 @@
 
 ---
 
+## 📝 Professional Summary
+
+Aspiring Software Engineer with experience building web applications, IoT prototypes, and automation solutions. Skilled in Python, Java, JavaScript, C/C++, Swift, Django, Spring MVC, Spring JDBC, and embedded systems. Hands-on experience with backend APIs, responsive UI design, and embedded system prototyping.
+
+---
+
 ## 🚀 About Me
 
 - 🔭 I’m passionate about building impactful software solutions, web applications, and IoT-enabled systems.
@@ -50,6 +56,7 @@ _Mar 2024 – Apr 2024_
 - Developed a responsive calculator app and a modern fitness landing page.
 - Built a personal portfolio and a real-time temperature converter tool.
 - Improved UI/UX design, responsiveness, and front-end performance across multiple web pages.
+- Applied hands-on web development skills for real-world client deliverables and cross-device compatibility.
 
 ---
 
@@ -120,6 +127,7 @@ _Mar 2024 – Apr 2024_
 
 - **Python** (3.12) – Django, Django REST Framework (DRF)
 - **Java** – Core Java (1.8), Advanced Java (Servlets, JSP, JDBC)
+- **Spring** – Spring MVC, Spring JDBC, Spring Boot fundamentals
 - **JavaScript** (ES6+)
 - **C** (C98)
 - **C++** (14.2.0)
@@ -146,6 +154,7 @@ _Mar 2024 – Apr 2024_
 
 ### 🔧 Additional Strengths
 
+- Hands-on Spring MVC and Spring JDBC experience
 - Web development and responsive design
 - Backend API development with Django and DRF
 - IoT and embedded system prototyping
