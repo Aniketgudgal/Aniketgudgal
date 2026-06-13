@@ -3,7 +3,6 @@
 📱 **Mobile:** +91-7057112026  
 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/917057112026)  
 🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/aniket-gudgal-570086267/) | [Email](mailto:aniketgudgal5867@gmail.com)
-📄 **Resume:** [View Resume](Resume.md)
 
 ---
 
